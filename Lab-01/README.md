@@ -98,19 +98,3 @@ In the Render dashboard, I configured the following settings:
 After updating these settings and redeploying, the application started successfully and the live link began working.
 
 ---
-
-## Project Structure
-
-
-Lab-01/
-├── index.js
-├── http-server.js
-├── package.json
-├── package-lock.json
-├── .gitignore
-├── README.md
-└── Screenshots/
-    ├── Home.png
-    ├── about.png
-    ├── time.png
-    └── NotFound.png
