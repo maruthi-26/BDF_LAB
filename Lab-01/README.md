@@ -5,7 +5,7 @@
 **Section:** GEN-AI 2B  
 **Room:** 111  
 
-**Live Link:** https://your-render-app-name.onrender.com
+**Live Link:** https://bdf-lab.onrender.com
 
 ---
 
