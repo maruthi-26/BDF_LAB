@@ -11,7 +11,7 @@
 
 ## Live Link
 
-**Deployment URL:** Not applicable (SQLite is a file-based database and is intended for local development)
+**Deployment URL:** https://bdf-lab-2.onrender.com
 
 ## Objective
 
